@@ -164,4 +164,4 @@ temp/
 directory.path
 
 # Mac OS
-**/.DS_Store
+**/.DS_Store./.venv/lib/python3.9/site-packages/torch/lib/libtorch_cpu.dylib # LARGE FILE

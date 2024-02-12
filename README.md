@@ -5,7 +5,7 @@
 
 Author: [Rishika Mohanta](https://neurorishika.github.io/)
 
-Latest Build Date: 2024-01-17 15:05:53
+Latest Build Date: 2024-01-18 16:34:25
 
 ## About the Project
 
@@ -46,6 +46,7 @@ LICENSE
 README.md
 analysis
    |-- .gitkeep
+   |-- task_variants.ipynb
 data
    |-- .gitkeep
 poetry.lock
@@ -54,7 +55,7 @@ processed_data
    |-- .gitkeep
 project_readme.md
 pyproject.toml
-rpytemplate
+radialmaze
    |-- __init__.py
    |-- rdp_client.py
 scripts
